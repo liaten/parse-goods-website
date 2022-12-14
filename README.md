@@ -22,20 +22,3 @@
     Скрипт должен работать для любой подобной страницы
     Выбранные данные страниц поместить в таблицы базы данных WP
     Данные должны формироваться на новой странице, страница автоматически помещаться в меню при запуске скрипта парсинга
-    Во время защиты работы уметь модифицировать работу парсера.
-
-Инструменты
-
-    https://github.com/hxseven/htmlSQL - htmlSQL
-    https://code.google.com/p/phpquery/ -phpquery
-    http://querypath.org/ - QueryPath
-    https://github.com/amal/CDom CDom
-    http://sourceforge.net/projects/simplehtmldom/  - PHP Simple HTML DOM Parser
-
-JS браузеры, имитация браузеров
-
-    phantomJS
-    php phantomJS
-    CasperJS
-    SlimerJS
-    cURL
